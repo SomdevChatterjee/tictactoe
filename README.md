@@ -54,3 +54,7 @@ Use the following scripts for deployment:
 ```
 
 Then follow the normal procedure in GitHub Pages and select the `gh-pages` branch.
+
+
+This is a test project that is acutally a game related to tictactoe that can be played with your friends
+
